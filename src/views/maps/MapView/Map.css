@@ -1,0 +1,12 @@
+.map {
+    position: absolute;
+    top: 9%;
+    left: 18.5%;
+    right: 0;
+    bottom: 0;
+}
+
+.chart {
+    height: 100px;
+    width: 200px;
+}

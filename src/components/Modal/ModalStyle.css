@@ -1,0 +1,12 @@
+input::placeholder {
+    font-size: 1.2em;
+    font-weight: lighter;
+    color: #999; 
+}
+.h1 {
+    text-align: center;
+    width: 100%;
+    color: #111;
+    font-weight: 'lighter';
+    font-family: '-appleSystem, BlinkMacSystemFont, Segoe UI'
+}

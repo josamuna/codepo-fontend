@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.leaflet-container {
+  height: 600px;
+  width: 100%;
+}
+
+.theMap {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
