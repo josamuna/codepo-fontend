@@ -251,6 +251,7 @@ Plusieurs personnes ont apporté leurs pierre dans la mise au point de ce logici
 - **Lydie Kavira Musekwa** : `+243974346798`, <lydiemusekwa@gmail.com>, <https://github.com/Ld03-muss>
 - **Chadrac Kighundila  Wakomya** : `+243979076416`, <chadracx@gmail.com>, <https://github.com/Chadrac-WAKOMYA>
 - **Glodi Maley Musema** : `+243992992063`, <glodimaley@gmail.com>, <https://github.com/projetMaleyMusemaGlodi2>
+- **Michel Osée** : `+32472305055`, <michel.osee@ulb.be>, <https://github.com/miosee>
 - **Mugisho Vital Taka** : `+243973588406`, <vitaltakanic@gmail.com>
 - **Nturubika Moise**: `+243975236270`, <nturumoussa@gmail.com>, <https://github.com/Moise-Nturubika>
 - **Daniel Muya wa Mpongo** : `+243994814807`, <danielmpongo22@gmail.com>
