@@ -6,7 +6,7 @@
 
 ## Table des Matières
 
-1. [Introduction](#Introduction)npm start
+1. [Introduction](#Introduction)
 2. [Structure](#Structure)
 3. [Fonctionnement](#Fonctionnement)
 4. [Technologies](#Technologies)
@@ -263,4 +263,4 @@ Plusieurs personnes ont apporté leurs pierre dans la mise au point de ce logici
 
 ***
 
-Ce projet est par ailleurs soumis au droits relatifs à la licence [MIT](https://mit-license.org/).
+Ce projet est par ailleurs soumis aux droits relatifs à la licence [MIT](https://mit-license.org/).
