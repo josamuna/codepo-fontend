@@ -3,7 +3,7 @@
   "author": "ISIG-GOMA",
   "licence": "MIT",
   "version": "1.0.0",
-  "proxy": "https://api.monitor-engine.com",
+  "proxy": "http://localhost",
   "private": false,
   "scripts": {
     "start": "react-scripts start",
@@ -74,11 +74,11 @@
     "react-scripts": "^4.0.0",
     "react-select": "^4.3.1",
     "react-toast-notifications": "^2.4.4",
-    "react-toastify": "^7.0.4",
+    "react-toastify": "^8.1.1",
     "reactcss": "^1.2.3",
-    "redux": "^4.1.0",
-    "uuid": "^8.3.0",
-    "yup": "^0.29.3"
+    "redux": "^4.1.2",
+    "uuid": "^8.3.2",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "eslint": "^7.11.0",

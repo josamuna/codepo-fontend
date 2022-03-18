@@ -31,7 +31,6 @@ import Empty from 'src/assets/empty_xct9.svg';
 import CommandDevice from 'src/components/Modal/AddCmdDeviceModal';
 import ConfirmationMessage from 'src/components/Modal/ConfirmationMessage';
 import FollowingConfirm from 'src/components/Modal/FollowingDevice';
-import notifyInformation from 'src/components/infoToastNotification';
 import { ToastContainer } from 'react-toastify';
 import axiosInstance from '../../../axios';
 import USER_CONNECTED from '../../../user-connected';

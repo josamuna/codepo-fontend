@@ -4,7 +4,9 @@ import axios from 'axios';
 // const mybaseURL = 'http://localhost:8000/api/';
 
  // Lien officiel du site
- const mybaseURL = 'https://api.monitor-engine.com/api/';
+ // const mybaseURL = 'https://api.monitor-engine.com/api/';
+ // lien localhost
+const mybaseURL = 'http://localhost:8000/api/';
 // const mybaseURL = 'http://185.98.137.19/api/';
 // const mybaseURL = 'http://192.148.43.246:8000/api/';
 
